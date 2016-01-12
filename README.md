@@ -15,7 +15,7 @@ If Hack Reactor takes people from 60 to 120 in web development, then Hack Reacto
 
 ## Prerequisites
 
-It is recommended that students take JS Fundamentals: Objects, Arrays and Functions prior to this course; however it is not required. Students should have 3-5 months experience with JavaScript and programming. Students should understand and be familiar with variables, if/else statements, loops, objects, arrays and the most basic of JavaScript syntax. 
+It is recommended that students take JS Fundamentals: Objects, Arrays and Functions prior to this course; however it is not required. Students should have 3-5 months experience with JavaScript and programming. Students should understand and be familiar with variables, if/else statements, loops, objects, arrays and the most basic of JavaScript syntax.
 
 ## Textbook
 
@@ -30,3 +30,5 @@ Laptop, Chrome browser and a text editor. We recommend Sublime Text 3 for this c
 ##Resources
 
 **Scope and Closure:** http://speakingjs.com/es5/ch16.html
+
+`cloned to my github`
